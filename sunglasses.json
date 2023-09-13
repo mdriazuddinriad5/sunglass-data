@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Wayfarers",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "name": "Aviators",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Round sunglasses",
+      "price": 175
+    },
+    {
+      "id": 4,
+      "name": "Cat-eye sunglasses",
+      "price": 250
+    },
+    {
+      "id": 5,
+      "name": "Oversized sunglasses",
+      "price": 300
+    }
+  ]
+  
